@@ -73,3 +73,5 @@ if submit:
     else:
         st.success(f"✅ Low Risk of Diabetes\n\n**Probability: {probability:.2f}**")
         st.balloons()
+
+
