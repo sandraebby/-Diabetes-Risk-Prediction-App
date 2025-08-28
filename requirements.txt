@@ -4,7 +4,3 @@ numpy==1.26.4
 scikit-learn==1.5.1
 joblib==1.4.2
 imbalanced-learn==1.2.1
-rich==14.1.0
-markdown-it-py==4.0.0
-pygments==2.19.2
-mdurl==0.1.2
